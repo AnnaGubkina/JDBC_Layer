@@ -9,5 +9,4 @@ public class JdbcDaoLayerApplication {
     public static void main(String[] args) {
         SpringApplication.run(JdbcDaoLayerApplication.class, args);
     }
-
 }
